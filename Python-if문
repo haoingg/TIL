@@ -1,1 +1,2 @@
-
+git rm python-if문
+git rm --cached Python-if문
